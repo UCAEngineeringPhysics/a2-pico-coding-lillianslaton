@@ -53,7 +53,7 @@ And $n$ indicates number of duty cycle increments in the period of $T$.
 Use $D_{max}$ as the maximal value for PWM signal's duty cycle.
 Please write out the equation of the duty cycle's **increment** value, $s$, below :point_down:
 
-s = \frac{D_{\max}}{n}
+$s = \frac{D_{\max}}{n}$
 
 
 > [!TIP]
